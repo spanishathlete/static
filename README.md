@@ -35,3 +35,7 @@ Gitlab
 Gitlab
 
 ![](https://jihulab.com/spanishathlete/static/-/raw/main/img/test/night-sky.jpg)
+
+Gitee
+
+![](https://gitee.com/spanishathlete/static/raw/main/img/test/night-sky.jpg)
